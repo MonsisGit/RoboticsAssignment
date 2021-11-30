@@ -1,9 +1,13 @@
 # RoboticsAssignment
 
 Created by:
-Niels Dee
+
 Simon Goldhofer
+
+Niels Dee
+
 Carlos Barragan
+
 Andres Costa
 
 MATLAB Code for Robotics Assignment 2021
